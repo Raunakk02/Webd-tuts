@@ -1,0 +1,23 @@
+body {
+  background-color: seagreen;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+hr {
+  /* background-color: white; */
+  width: 20%;
+  border-top: 20px;
+  border-style: dotted none none;
+  border-color: white;
+}
+
+.headers:hover {
+    color: peru;
+}
+
+.headers:active {
+    color: cyan;
+}
