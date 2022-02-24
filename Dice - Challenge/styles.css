@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+
+h1, p {
+    color: greenyellow;
+}
+
+.dice-main {
+    background-color: blue;
+    margin: 0 20%;
+}
+
+.dice-main img {
+    width: 50%;
+}
+
+.dice-section {
+    margin: 7% 10%;
+}
+
+.d1.dice-section {
+    float: left;
+}
+
+.d2.dice-section {
+    float: left;
+}
